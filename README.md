@@ -31,7 +31,10 @@ The next steps were to create additional data points by:
  Finally, creating a line chart visualizes the analysis and gives a clear look at trend as seen below:
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/109319148/182481806-762c7752-a384-44b0-ac2d-4ee5aa3aee94.png)
 
-[Kickstarter_Challenge_.xlsx](https://github.com/ErinLVigil/Kickstarter-analysis/files/9246023/Kickstarter_Challenge_.xlsx)
+
+[Kickstarter_Challenge.xlsx](https://github.com/ErinLVigil/Kickstarter-analysis/files/9246104/Kickstarter_Challenge.xlsx)
+
+
 
 ### Challenges and Difficulties Encountered
 
